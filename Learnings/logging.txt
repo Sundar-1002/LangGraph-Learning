@@ -1,0 +1,8 @@
+Your conversation log:
+You : Hello, I am sundar
+AI : Hello Sundar! It's nice to meet you. How can I help you today?
+
+You : what is my name
+AI : Your name is Sundar.
+
+End of conversation.
